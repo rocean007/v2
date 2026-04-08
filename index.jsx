@@ -1,6 +1,4 @@
 import { useState, useEffect, useRef } from "react";
-
-// ─── TRANSLATIONS ─────────────────────────────────────────────────────────────
 const T = {
   ne: {
     siteTitle: "बोध नारायण श्रेष्ठ | राजनीतिक नेता र सार्वजनिक सेवक",
